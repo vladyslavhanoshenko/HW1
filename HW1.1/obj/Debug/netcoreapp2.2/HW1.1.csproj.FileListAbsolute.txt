@@ -1,0 +1,11 @@
+/Users/vlad/Desktop/HW1/HW1.1/bin/Debug/netcoreapp2.2/HW1.1.deps.json
+/Users/vlad/Desktop/HW1/HW1.1/bin/Debug/netcoreapp2.2/HW1.1.runtimeconfig.json
+/Users/vlad/Desktop/HW1/HW1.1/bin/Debug/netcoreapp2.2/HW1.1.runtimeconfig.dev.json
+/Users/vlad/Desktop/HW1/HW1.1/bin/Debug/netcoreapp2.2/HW1.1.dll
+/Users/vlad/Desktop/HW1/HW1.1/bin/Debug/netcoreapp2.2/HW1.1.pdb
+/Users/vlad/Desktop/HW1/HW1.1/obj/Debug/netcoreapp2.2/HW1.1.csprojAssemblyReference.cache
+/Users/vlad/Desktop/HW1/HW1.1/obj/Debug/netcoreapp2.2/HW1.1.csproj.CoreCompileInputs.cache
+/Users/vlad/Desktop/HW1/HW1.1/obj/Debug/netcoreapp2.2/HW1.1.AssemblyInfoInputs.cache
+/Users/vlad/Desktop/HW1/HW1.1/obj/Debug/netcoreapp2.2/HW1.1.AssemblyInfo.cs
+/Users/vlad/Desktop/HW1/HW1.1/obj/Debug/netcoreapp2.2/HW1.1.dll
+/Users/vlad/Desktop/HW1/HW1.1/obj/Debug/netcoreapp2.2/HW1.1.pdb
